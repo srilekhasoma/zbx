@@ -1,0 +1,2 @@
+# zbx
+zbx setup
