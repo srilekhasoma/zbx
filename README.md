@@ -1,2 +1,4 @@
 # zbx
 zbx setup
+
+Architecture 
